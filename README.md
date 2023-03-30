@@ -2,7 +2,6 @@
 
 This is a sample portfolio website built using HTML, CSS, and JavaScript. It is a single-page website that showcases a designer's work.
 
-![Sample Portfolio Screenshot](https://i.imgur.com/2Q0TK0m.png)
 
 ## Features
 
